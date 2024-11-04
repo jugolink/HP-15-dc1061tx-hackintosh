@@ -2,7 +2,7 @@
 暗影精灵5 ｜ macOS Sequoia 15.0.1  ｜ OpenCore 1.0.2 ｜ hackintosh
 
 ## 前言
-由于暗影精灵5早先开放的OC文件在更新支持macOS Monterey/Ventura后就停止更新了。本仓库在原分支基础上更新OC至1.0.2版本，并对蓝牙和wifi做了一定调整以便在Sequoia上能稳定运行。
+暗影精灵5的OC文件在作者更新到macOS Monterey/Ventura后便停止维护了。本仓库在原分支基础上更新OC至1.0.2版本，并对蓝牙和wifi做了一定调整以便在Sequoia上能稳定运行。
 
 感谢[BobMaster's Blog](https://blog.hibobmaster.com/2020/10/26/hp-15-dc1010nr-hackintosh/comment-page-6/)的分享。
 
