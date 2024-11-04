@@ -4,7 +4,7 @@
 ## 前言
 由于暗影精灵5早先开放的OC文件在更新支持macOS Monterey/Ventura后就停止更新了。本仓库在原分支基础上更新OC至1.0.2版本，并对蓝牙和wifi做了一定调整以便在Sequoia上能稳定运行。
 
-感谢[BobMaster's Blog]([https://blog.hibobmaster.com/](https://blog.hibobmaster.com/2020/10/26/hp-15-dc1010nr-hackintosh/comment-page-6/))的分享。
+感谢[BobMaster's Blog]([https://blog.hibobmaster.com/](https://blog.hibobmaster.com/2020/10/26/hp-15-dc1010nr-hackintosh/comment-page-6/)的分享。
 
 电脑配置以及OC相关的配置信息，这里不赘述。可以移步[传送门](https://blog.hibobmaster.com/2020/10/26/hp-15-dc1010nr-hackintosh/comment-page-6/)查看。
 
