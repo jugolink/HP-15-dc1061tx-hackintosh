@@ -8,8 +8,8 @@
 
 电脑配置以及OC相关的配置信息，这里不赘述。可以移步[传送门](https://blog.hibobmaster.com/2020/10/26/hp-15-dc1010nr-hackintosh/comment-page-6/)查看。
 
-## Normal and Abnormal
-正常的功能
+## Normal
+
 1. 核显加速成功
 2. 睡眠
 3. 电池
@@ -18,10 +18,11 @@
 6. 无线（由于AirportItlwm驱动在Sequoia上尚未支持，目前的解决办法是[itlwm](https://github.com/OpenIntelWireless/itlwm) 和  [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)联合的方式来使用WIFI功能）
 7. 触控板手势以及物理按键(手势等支持的不是特别好，强烈建议外接鼠标和键盘使用或等VoodooPS2后续更新)
 8. NVME 和 Sata Trim 支持
-9. ….
-不正常
+
+## Abnormal
+
 1.dp/hdmi貌似直连独显。使用核显需要在外接显示器时用type-c接口。如果外接显示器支持Type-C直连就更好了，省去转接。
-2.无法直接操作键盘背光灯，但有个办法，在windwos系统下把背光灯激活成想要的模式，再之后切换到macOS中时，键盘背光是保留的。
+2.无法直接操作键盘背光灯，但有个办法，在windwos系统下把背光灯激活成想要的模式，再之后切换到macOS中时，键盘背光是保留的。  
 
 ## 截图
 ![系统信息](https://github.com/user-attachments/assets/de2775ed-20b5-4087-b176-e631934d551c)
