@@ -15,7 +15,7 @@
 3. 电池
 4. 扬声器、麦克风、摄像头
 5. 有线、蓝牙
-6. 无线（由于AirportItlwm驱动在Sequoia上尚未支持，目前的解决办法是[itlwm](https://github.com/OpenIntelWireless/itlwm) 和  [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)联合的方式来使用WIFI功能）
+6. 无线（由于AirportItlwm驱动在Sequoia上尚未支持，目前的解决办法是[itlwm](https://github.com/OpenIntelWireless/itlwm) 和  [HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.5.0/HeliPort.dmg)联合的方式来使用WIFI功能，release页面发布的efi已经包含相关驱动，并禁用了AirportItlwm驱动。只需要下载安装HeliPort使用即可）
 7. 触控板手势以及物理按键(手势等支持的不是特别好，强烈建议外接鼠标和键盘使用或等VoodooPS2后续更新)
 8. NVME 和 Sata Trim 支持
 
